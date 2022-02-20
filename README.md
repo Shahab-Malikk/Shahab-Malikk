@@ -42,7 +42,7 @@
       alt="Shahab Malik" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br>
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -64,10 +64,9 @@
       height="50" /> </a>
       <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuejs.png"> </code>
        <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code> 
-      
-      </p>
+ </p>
 
-<br><br><br>
+<br><br>
 <h3 align="left">Recent Projects</h3>
 <p>
 <em>

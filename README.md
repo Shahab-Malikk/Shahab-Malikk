@@ -61,10 +61,50 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="50" height="50" /> </a>  </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50"
-      height="50" /> </a> </p>
+      height="50" /> </a>
+      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuejs.png"> </code>
+       <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code> 
+      
+      </p>
 
-<br>
-
+<br><br><br>
+<h3 align="left">Recent Projects</h3>
+<p>
+<em>
+<a href="https://github.com/Shahab-Malikk/BreakOut-Game-Java-" target="_blank">
+BreakOut Game Java 
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://wowblogs.netlify.app" target="_blank">
+WOW-Blogs
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://superiorcollege.netlify.app" target="_blank">
+College Website
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://sufa-academy.netlify.app" target="_blank">
+Educational Website
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://monstergamevue.netlify.app" target="_blank">
+Monster Game
+</a>
+</em>
+</p>
+<br><br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahab-Malikk&show_icons=true&locale=en&layout=compact"
@@ -77,12 +117,12 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahab-Malikk&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahab-Malikk&" alt="Shahab Malik" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=Shahab-Malikk" alt="adam-pw" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=Shahab-Malikk" alt="" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

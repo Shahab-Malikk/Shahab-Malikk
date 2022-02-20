@@ -98,8 +98,15 @@ Educational Website
 </p>
 <p>
 <em>
-<a href="https://monstergamevue.netlify.app" target="_blank">
-Monster Game
+<a href="https://landing-page-frontend.netlify.app" target="_blank">
+Manage Landing Page
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://free-hand-flex.netlify.app" target="_blank">
+FreeHand Page
 </a>
 </em>
 </p>

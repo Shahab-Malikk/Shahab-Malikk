@@ -124,13 +124,13 @@ FreeHand Page
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahab-Malikk&" alt="Shahab Malik" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=m_shahab" alt="ShahabMalikk" width="410" /></p>
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Shahab-Malikk" alt="" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shahab-Malikk" alt="engrmafzaalch" width="410" /></p>
+
 
 
 
